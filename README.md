@@ -1,6 +1,6 @@
-# Genetic Algorithm for Private Key Search
+# Genetic Algorithm for Search
 
-This project uses a genetic algorithm combined with machine learning to search for a Bitcoin private key that closely matches a target RIPEMD-160 hash.
+This project uses a genetic algorithm combined with machine learning to search for a key that closely matches a target RIPEMD-160 hash.
 
 ## How It Works
 
